@@ -1,3 +1,6 @@
 [submodule "src/latex-assignment-template"]
 	path = src/latex-assignment-template
 	url = https://github.com/jaacko-torus/latex-assignment-template.git
+[submodule "src/latex-assignment-template-engine.config"]
+	path = src/latex-assignment-template-engine.config
+	url = https://github.com/jaacko-torus/latex-assignment-template-engine.config
