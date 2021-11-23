@@ -1,0 +1,3 @@
+[submodule "src/latex-assignment-template"]
+	path = src/latex-assignment-template
+	url = https://github.com/jaacko-torus/latex-assignment-template.git
