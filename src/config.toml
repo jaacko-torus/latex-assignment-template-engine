@@ -1,0 +1,30 @@
+[student]
+name = "Julián A. Avar C."
+email = ""
+school = "Full Sail University"
+degree = "Game Development"
+id = ""
+# `#` must be escaped in LaTeX
+class = ""
+term = ""
+
+[class]
+name = ""
+name_abbr = ""
+
+[document]
+# date = "January 1, 1999"
+
+[assignment]
+id = ""
+name = ""
+
+[latex]
+include_images = true
+
+[latex.citations]
+style = "apa"
+sorting = "none"
+# autocite = "footnote"
+
+
